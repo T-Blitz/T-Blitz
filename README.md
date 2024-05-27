@@ -1,5 +1,14 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+### Field of work and current occupation
+- Currently Sutdying "Computer Science and Communication Systems"
+- Currently working in the Electrical engineering laboratory of my University, for IoT reasons.
+- Field of Focus is IoT/Smart Home.
 
+### Interested and other things about me
+- Everything Open source and selfhosted is my type of software.
+- Ask me about "Home Assistant" i can help you to get started.
+- Nothing goes over a good green tea, but i will always have coffee for you.
+- Colleting [Fumos](https://fumo.website/) and random tech, such as Retro Consol and older PC hardware.
 <!--
 **T-Blitz/T-Blitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
