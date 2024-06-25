@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 ### Field of work and current occupation
 - Currently Sutdying "Computer Science and Communication Systems"
-- Currently working in the telecommunication-electronics laboratory of my University, for IoT reasons.
+- Currently working in the Telecommunication-electronics laboratory of my University, for IoT reasons.
 - Field of Focus is IoT/Smart Home.
 
 ### Interested and other things about me
